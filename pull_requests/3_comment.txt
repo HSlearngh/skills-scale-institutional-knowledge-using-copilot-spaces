@@ -1,0 +1,3 @@
+# Linking Issue to Pull Request
+
+Linking issue #2 to this pull request as per user request.
